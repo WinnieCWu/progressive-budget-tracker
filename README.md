@@ -1,10 +1,10 @@
 # progressive-budget-tracker
 
 # What it is 
-This update to an existing budget tracker app allows any user to have offline access and functionality. Users can add expenses or deposits with or without a connection. If there's no internet connection, the transactions will be saved and then updated once the user has =connection again. 
+This update to an existing budget tracker app allows any user to have offline access and functionality. Users can add or subtract funds both with and without a connection. If there's no internet connection, the transactions will be saved; when there is a connection, the saved data will be updated to the app automatically with the help of Service Worker.
 
 # Technologies used
-IndexedDb and service workers were both used to enable offline functionality. Additionally, this app uses web-pack-dev server to test the service worker. 
+IndexedDb and service workers were both used to enable offline functionality. 
 
 # What it looks like 
 ![image]()
