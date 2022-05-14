@@ -7,7 +7,7 @@ This update to an existing budget tracker app allows any user to have offline ac
 IndexedDb and service workers were both used to enable offline functionality. 
 
 # What it looks like 
-Link to deployed app:
+Link to deployed app: https://git.heroku.com/limitless-lowlands-47356.git
 
 ![budgettracker](https://user-images.githubusercontent.com/95206117/168446474-745e6ed2-ee94-4cd0-9ac7-ffa1ccaa6d6f.JPG)
 ![savedtransactionsfromoffline](https://user-images.githubusercontent.com/95206117/168446475-87fa5c00-0146-4a70-9d8a-40c5f5988258.JPG)
